@@ -77,5 +77,5 @@ Logistic regression with tuned hyperparameters performs robustly on the credit a
 **Benjamin Yang**  
 University of North Carolina at Chapel Hill  
 
-📧 **Email:** bbyang@unc.edu  
+📧 **Email:** yangbenjamin19@gmail.com
 🔗 **GitHub:** [BenYang12](https://github.com/BenYang12)
