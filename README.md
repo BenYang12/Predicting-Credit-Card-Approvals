@@ -23,11 +23,14 @@ scikit-learn
 
 📈 Model Evaluation
 ROC Curve
+
 <img width="780" height="459" alt="Screenshot 2025-11-10 at 7 01 19 PM" src="https://github.com/user-attachments/assets/3cb1dd8f-4dc5-4456-8499-08fe8d2452cf" />
+
 The model’s ROC curve shows strong separation between classes 
 with high AUC, indicating good discrimination ability.
 
 Confusion Matrix
+
 <img width="84" height="44" alt="Screenshot 2025-11-10 at 7 02 49 PM" src="https://github.com/user-attachments/assets/212289af-5f11-4672-8f16-fb0bbea86b39" />
 
 ✅ Interpretation:
